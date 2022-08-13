@@ -1,0 +1,23 @@
+Static typed variables.
+    int numer = 10;
+So we know what it is.
+Dynamic, it can determine at runtime, set it to a number, and then possible a script. Flexibility but this could lead to failures.
+And we will not know this until runtime. So this is what we are trying to solve.
+
+TypeScript built on top of JavaScript.
+
+TypeScript, does our TypeChecking.
+compiler will stop us.
+
+Additional features for more cleaner and concise code.
+Utilized for larger projects.
+
+npm i -g typescript
+tsc -v
+tsc index.ts (compiler)
+tsc only needed
+node .\dist\index.js
+
+Configuration file for typescript
+
+
